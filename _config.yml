@@ -1,4 +1,3 @@
-layout_spectrum: 0.24941832129843533
 typography_spectrum: 0.8387133250944316
 color:
   brandStrength: 0.8177276703063399
@@ -11,5 +10,10 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+layout_spectrum: 0.24941832129843533
+author:
+  name: Marc Orro
+  email: marc@orro.me
+  url: 'http://Marc.Orro.me'
 name: Marc Orro
 title: 'Research, Vision & Perceptions'
