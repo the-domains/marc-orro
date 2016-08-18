@@ -11,6 +11,9 @@ color:
     - '#424E4F'
     - '#1B1D1E'
 layout_spectrum: 0.24941832129843533
+analytics:
+  google: UA-41772503-1
+  facebook: '1731555060442874'
 author:
   name: Marc Orro
   email: marc@orro.me
