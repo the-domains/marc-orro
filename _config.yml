@@ -10,6 +10,8 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+opengraph:
+  appId: '1786903098214450'
 layout_spectrum: 0.24941832129843533
 analytics:
   google: UA-41772503-1
