@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Research, Vision & Perceptions]]></title>
+        <description><![CDATA[Research, Vision & Perceptions]]></description>
+        <link>http://www.marc.orro.me/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 14:30:03 GMT</lastBuildDate>
+        <atom:link href="http://www.marc.orro.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from SuperAtic (@superatic). A #creative #technology studio transforming #business for the world's biggest #brands by designing, developing & delivering #digital experiences of consequence. Worldwide</p>]]></description>
+            <link>http://twitter.com/superatic</link>
+            <guid isPermaLink="false">df893aae-3e76-4522-8b31-6d43bf59ade7</guid>
+            <pubDate>Sat, 20 Aug 2016 14:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marc Orro | Welcome]]></title>
+            <description><![CDATA[<article><h1>Marc Orro | Welcome</h1><p>Brand Manager & Digital Strategist</p></article>]]></description>
+            <link>http://marc.orro.me</link>
+            <guid isPermaLink="false">c20aa6c0-a836-49c6-b282-311db9cf8fd6</guid>
+            <pubDate>Sat, 20 Aug 2016 14:30:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
